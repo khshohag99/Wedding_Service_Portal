@@ -22,5 +22,13 @@ The Wedding Service Website is a web project built using Bootstrap, CSS, PHP, an
 3. Import the provided SQL database file into your MySQL server.
 4. Update the database connection details in the project's configuration files.
 5. Access the website through your local server's URL and start exploring its features.
+
+
 ![git 1](https://github.com/khshohag99/Wedding_Service_Portal/assets/115762775/d04db034-e121-4fc8-926a-29cea6688312)
+
+
+![git 2](https://github.com/khshohag99/Wedding_Service_Portal/assets/115762775/3f2fa236-73d7-4ab9-8fe1-af98fe051e4d)
+
+
+![git 3](https://github.com/khshohag99/Wedding_Service_Portal/assets/115762775/1d94e7bc-64aa-4195-ab8c-ff45b7b662db)
 
